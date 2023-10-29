@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Sat Oct 28 00:48:33 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : pipemult
+Top-level Entity Name : pipemult
+Family : MAX 10
+Device : 10M08DAF484C8GES
+Power Models : Final
+Total Thermal Power Dissipation : 153.65 mW
+Core Dynamic Thermal Power Dissipation : 17.37 mW
+Core Static Thermal Power Dissipation : 39.84 mW
+I/O Thermal Power Dissipation : 96.44 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data

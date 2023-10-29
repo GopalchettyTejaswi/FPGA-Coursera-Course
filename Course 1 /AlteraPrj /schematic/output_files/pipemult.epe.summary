@@ -1,0 +1,7 @@
+Early Power Estimator File Generator Status : Successful - Sun Oct 15 23:53:23 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : pipemult
+Top-level Entity Name : pipemult
+Family : MAX 10
+Device : 10M08DAF484C8GES
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
