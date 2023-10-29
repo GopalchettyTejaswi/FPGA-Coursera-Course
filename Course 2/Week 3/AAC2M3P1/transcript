@@ -1,0 +1,34 @@
+# Compile of AAC2M3P1.v was successful.
+# Compile of AAC2M3P1_tb.vp was successful.
+vsim -gui work.AAC2M3P1_tb
+# vsim -gui work.AAC2M3P1_tb 
+# Start time: 16:34:26 on Sep 17,2023
+# Loading work.AAC2M3P1_tb
+# Loading work.Comparator2
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'DUT'.  Expected 5, found 3.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3P1_tb/DUT File: E:/Coursera FPGA Course/Week 3/AAC2M3P1/AAC2M3P1_tb.vp Line: 91
+# ** Warning: (vsim-3722) E:/Coursera FPGA Course/Week 3/AAC2M3P1/AAC2M3P1_tb.vp(91): [TFMPC] - Missing connection for port 'greater'.
+# ** Warning: (vsim-3722) E:/Coursera FPGA Course/Week 3/AAC2M3P1/AAC2M3P1_tb.vp(91): [TFMPC] - Missing connection for port 'less'.
+add wave -position end  sim:/AAC2M3P1_tb/delay
+add wave -position end  sim:/AAC2M3P1_tb/a_tb
+add wave -position end  sim:/AAC2M3P1_tb/b_tb
+add wave -position end  sim:/AAC2M3P1_tb/y_tb
+add wave -position end  sim:/AAC2M3P1_tb/i
+add wave -position end  sim:/AAC2M3P1_tb/j
+add wave -position end  sim:/AAC2M3P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P1_tb/score
+add wave -position end  sim:/AAC2M3P1_tb/FirstError
+add wave -position end  sim:/AAC2M3P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P1_tb/testresults
+add wave -position end  sim:/AAC2M3P1_tb/vector
+add wave -position end  sim:/AAC2M3P1_tb/address
+add wave -position end  sim:/AAC2M3P1_tb/data
+add wave -position end  sim:/AAC2M3P1_tb/rom
+run
+run
+# This simulation is complete
+# ** Note: $stop    : E:/Coursera FPGA Course/Week 3/AAC2M3P1/AAC2M3P1_tb.vp(113)
+#    Time: 170 ns  Iteration: 0  Instance: /AAC2M3P1_tb
+# Break in Module AAC2M3P1_tb in file E:/Coursera FPGA Course/Week 3/AAC2M3P1/AAC2M3P1_tb.vp
+# End time: 16:35:18 on Sep 17,2023, Elapsed time: 0:00:52
+# Errors: 0, Warnings: 11

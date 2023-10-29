@@ -1,0 +1,85 @@
+# Compile of AAC2M3P3.v failed with 3 errors.
+# Compile of AAC2M3P3.v was successful.
+# Compile of AAC2M3P3_tb.vp was successful.
+vsim -gui work.AAC2M3P1_tb
+# vsim -gui work.AAC2M3P1_tb 
+# Start time: 16:39:13 on Sep 17,2023
+# Loading work.AAC2M3P1_tb
+# Loading work.find_errors
+add wave -position end  sim:/AAC2M3P1_tb/delay
+add wave -position end  sim:/AAC2M3P1_tb/a_tb
+add wave -position end  sim:/AAC2M3P1_tb/c_tb
+add wave -position end  sim:/AAC2M3P1_tb/b_tb
+add wave -position end  sim:/AAC2M3P1_tb/i
+add wave -position end  sim:/AAC2M3P1_tb/j
+add wave -position end  sim:/AAC2M3P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P1_tb/score
+add wave -position end  sim:/AAC2M3P1_tb/FirstError
+add wave -position end  sim:/AAC2M3P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P1_tb/testresults
+add wave -position end  sim:/AAC2M3P1_tb/vector
+add wave -position end  sim:/AAC2M3P1_tb/address
+add wave -position end  sim:/AAC2M3P1_tb/data
+add wave -position end  sim:/AAC2M3P1_tb/rom
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -continue
+run -continue
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -all
+# This simulation is complete
+# ** Note: $stop    : E:/Coursera FPGA Course/Week 3/AAC2M3P3/AAC2M3P3_tb.vp(115)
+#    Time: 10250 ns  Iteration: 0  Instance: /AAC2M3P1_tb
+# Break in Module AAC2M3P1_tb in file E:/Coursera FPGA Course/Week 3/AAC2M3P3/AAC2M3P3_tb.vp
+# End time: 16:40:39 on Sep 17,2023, Elapsed time: 0:01:26
+# Errors: 0, Warnings: 11
