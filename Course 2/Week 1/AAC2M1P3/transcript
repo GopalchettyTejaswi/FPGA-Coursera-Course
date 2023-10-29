@@ -1,0 +1,101 @@
+# Compile of AAC2M1P3.vhd was successful.
+# Compile of AAC2M1P3_tb.vhdp was successful.
+vsim -gui work.aac2m1p3_tb
+# vsim -gui work.aac2m1p3_tb 
+# Start time: 20:58:48 on Sep 03,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.numeric_bit(body)
+# Loading ieee.numeric_bit_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1p3_tb(behavioral)
+# Loading work.find_errors(not_good)
+run
+add wave -position end  sim:/aac2m1p3_tb/a_tb
+add wave -position end  sim:/aac2m1p3_tb/c_tb
+add wave -position end  sim:/aac2m1p3_tb/b_tb
+add wave -position end  sim:/aac2m1p3_tb/ValidCheck
+add wave -position end  sim:/aac2m1p3_tb/ROM
+add wave -position end  sim:/aac2m1p3_tb/delay
+add wave -position end  sim:/aac2m1p3_tb/Points
+run
+run
+run
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Note: This simulation is complete
+#    Time: 10260 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# End time: 21:03:08 on Sep 03,2023, Elapsed time: 0:04:20
+# Errors: 0, Warnings: 1

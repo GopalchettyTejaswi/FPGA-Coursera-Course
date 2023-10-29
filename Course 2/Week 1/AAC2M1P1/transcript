@@ -1,0 +1,165 @@
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project AAC2M2P1
+# Compile of AAC2M2P1.vhd was successful.
+# Compile of AAC2M2P1_tb.vhdp was successful.
+# Load canceled
+# Load canceled
+vsim -gui work.aac2m2p1
+# vsim -gui work.aac2m2p1 
+# Start time: 16:08:47 on Sep 10,2023
+# Loading std.standard
+# ** Error: (vsim-3173) Entity 'E:/Coursera FPGA Course/Week 2/AAC2M2P1/work.aac2m2p1' has no architecture.
+# Error loading design
+# End time: 16:08:48 on Sep 10,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 13
+# Compile of AAC2M2P1.vhd was successful.
+# Compile of AAC2M2P1_tb.vhdp was successful.
+vsim -gui work.aac2m2p1
+# vsim -gui work.aac2m2p1 
+# Start time: 16:11:42 on Sep 10,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m2p1(arch_aac2m2p1)
+add wave -position end  sim:/aac2m2p1/CP
+add wave -position end  sim:/aac2m2p1/SR
+add wave -position end  sim:/aac2m2p1/P
+add wave -position end  sim:/aac2m2p1/PE
+add wave -position end  sim:/aac2m2p1/CEP
+add wave -position end  sim:/aac2m2p1/CET
+add wave -position end  sim:/aac2m2p1/Q
+add wave -position end  sim:/aac2m2p1/TC
+add wave -position end  sim:/aac2m2p1/count
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -continue
+run -continue
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run -all
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# End time: 16:15:07 on Sep 10,2023, Elapsed time: 0:03:25
+# Errors: 0, Warnings: 1

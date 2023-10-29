@@ -1,0 +1,33 @@
+# Compile of AAC2M1P4.vhd was successful.
+# Compile of AAC2M1P4_tb.vhdp was successful.
+vsim -gui work.aac2m1p4_tb
+# vsim -gui work.aac2m1p4_tb 
+# Start time: 21:13:02 on Sep 03,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1p4_tb(behavioral)
+# Loading work.majority(behavioral)
+add wave -position end  sim:/aac2m1p4_tb/a_tb
+add wave -position end  sim:/aac2m1p4_tb/b_tb
+add wave -position end  sim:/aac2m1p4_tb/c_tb
+add wave -position end  sim:/aac2m1p4_tb/y_tb
+add wave -position end  sim:/aac2m1p4_tb/ValidCheck
+add wave -position end  sim:/aac2m1p4_tb/ROM
+add wave -position end  sim:/aac2m1p4_tb/delay
+add wave -position end  sim:/aac2m1p4_tb/Points
+run
+run
+run
+# ** Error: Error
+#    Time: 20 ns  Iteration: 0  Instance: /aac2m1p4_tb
+# ** Error: Error
+#    Time: 30 ns  Iteration: 0  Instance: /aac2m1p4_tb
+# ** Error: Error
+#    Time: 50 ns  Iteration: 0  Instance: /aac2m1p4_tb
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1p4_tb
+# End time: 21:14:45 on Sep 03,2023, Elapsed time: 0:01:43
+# Errors: 3, Warnings: 8
