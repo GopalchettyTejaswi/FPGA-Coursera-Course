@@ -1,0 +1,24 @@
+Quartus Prime Archive log --	E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult.qarlog
+
+Archive:	E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult.qar
+Date:		Sun Oct 15 22:57:23 2023
+Quartus Prime		22.1std.2 Build 922 07/20/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/mult.bsf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/mult.cmp
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/mult.qip
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/mult.vhd
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult.bdf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult.qpf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult.qsf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult.sdc
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult2.qsf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult2.sdc
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult2_assignment_defaults.qdf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/pipemult_assignment_defaults.qdf
+E:/Coursera FPGA Course/Course 1/AlteraPrj/pipemultQP16_1 Design/pipemultQP16_1/Schematic/ram.vhd
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
