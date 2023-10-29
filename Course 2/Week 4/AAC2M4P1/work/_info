@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAAC2M4P1_tb
+!s110 1695573093
+!i10b 1
+!s100 X08nB14g:^5WcDGMI6fF72
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITUldA;]X:6n;e3=CIIRDB1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dE:/Coursera FPGA Course/Week 4/AAC2M4P1
+w1695572355
+8E:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1_tb.vp
+FE:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1_tb.vp
+!i122 1
+L0 65 59
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1695573093.000000
+!s107 E:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@p1_tb
+vLS161a
+!s110 1695573085
+!i10b 1
+!s100 gAm3:Vg7H=4aoa^@@di4M1
+R0
+I=aB`bji8]2ZF2jm<YFc]D3
+R1
+R2
+w1695572863
+8E:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1.v
+FE:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1.v
+!i122 0
+L0 1 29
+R3
+r1
+!s85 0
+31
+!s108 1695573085.000000
+!s107 E:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Coursera FPGA Course/Week 4/AAC2M4P1/AAC2M4P1.v|
+!i113 1
+R4
+R5
+n@l@s161a
