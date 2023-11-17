@@ -7,4 +7,4 @@ This specialization consists of 4 courses:-
 3) FPGA Softcore Processors and IP Acquisition
 4) FPGA Capstone : Building FPGA Projects
 
-I have completed first 2 of the 4 courses, and am planning to do the 3rd one as well, but not the 4th, since it requires me to buy a legit max 10 FPGA (which costs like 10$). So I am uploading all resources which I have, so that others may get help and not face the same problem which I did during this course. Since these courses are very fast-forward and over the head, solving the assignments and quizzes is no fun. So this is my small gift to all electronics engineering enthusiasts ;)
+I have completed first 3 of the 4 courses, but to the 4th one it requires me to buy a legit max 10 FPGA (which costs like 10$). So I am uploading all resources which I have, so that others may get help and not face the same problem which I did during this course. Since these courses are very fast-forward and over the head, solving the assignments and quizzes is no fun. So this is my small gift to all electronics engineering enthusiasts ;)
